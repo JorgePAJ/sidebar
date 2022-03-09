@@ -53,7 +53,7 @@ li:active {
   font-size: 25px;
   color: #fff;
   cursor: pointer;
-  display: none;
+  /* display: none; */
 }
 ul.show {
   top: 65px;
@@ -63,7 +63,7 @@ ul.show {
     font-size: 30px;
     padding-left: 35px;
   }
-  .menu_items li 1 {
+  .menu_items li{
     font-size: 16px;
   }
 }
